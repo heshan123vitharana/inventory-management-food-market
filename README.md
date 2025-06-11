@@ -81,7 +81,7 @@ React.js + Tailwind CSS
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/inventory-management-food-market.git
+git clone https://github.com/heshan123vitharana/inventory-management-food-market.git
 cd inventory-management-food-market
 ```
 
